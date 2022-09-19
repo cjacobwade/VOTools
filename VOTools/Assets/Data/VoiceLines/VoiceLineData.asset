@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297280e8a2b09454983e25d778900135, type: 3}
+  m_Name: VoiceLineData
+  m_EditorClassIdentifier: 
+  VO:
+    text: 
+    clip: {fileID: 8300000, guid: 8fe9e61ece95ec648b57866da908b123, type: 3}
+    timeline:
+      clip: {fileID: 8300000, guid: 8fe9e61ece95ec648b57866da908b123, type: 3}
+      keys: []
